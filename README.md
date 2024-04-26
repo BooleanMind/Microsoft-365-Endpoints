@@ -20,7 +20,7 @@ The IP addresses listed in these files are obtained from the official Microsoft 
 **Usage with PfSense**
 --------------------
 
-These text files are intended to be used as a URL Table (IP) in PfSense, a popular open-source firewall and router platform. By importing these files into PfSense, you can easily configure your firewall to allow traffic to and from Office online services, ensuring uninterrupted access to Microsoft Office applications and services.
+These text files are intended to be used as a URL Table (IP) in PfSense, a popular open-source firewall and router platform. By importing inserting  the Github raw link of these text files into PfSense, you can easily configure your firewall to allow traffic to and from Office online services, ensuring uninterrupted access to Microsoft Office applications and services.
 
 **How to use with PfSense**
 -------------------------
@@ -39,7 +39,7 @@ To use these files with PfSense, follow these steps:
 -----------------
 
 * Please ensure that you update these files regularly to reflect changes to the Office endpoints IP addresses and FQDNs.
-* These files are provided as-is, and you should verify their accuracy and suitability for your specific use case.
+* These files are provided as-is, and you should verify their accuracy and suitability for your specific use case. In my experience, addiotional IPs are still needed to make OFFICE 365 work through Pfsense firewall, but these file are a good starting point.
 
 **Contributing**
 ------------
