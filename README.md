@@ -38,7 +38,6 @@ To use these files with PfSense, follow these steps:
 **Important Notes**
 -----------------
 
-* Please ensure that you update these files regularly to reflect changes to the Office endpoints IP addresses and FQDNs.
 * These files are provided as-is, and you should verify their accuracy and suitability for your specific use case. In my experience, addiotional IPs are still needed to make OFFICE 365 work through Pfsense firewall, but these file are a good starting point.
 
 **Contributing**
