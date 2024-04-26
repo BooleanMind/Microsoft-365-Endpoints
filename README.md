@@ -38,7 +38,7 @@ To use these files with PfSense, follow these steps:
 **Important Notes**
 -----------------
 
-* These files are provided as-is, and you should verify their accuracy and suitability for your specific use case. In my experience, additional IPs are still needed to make OFFICE 365 work through Pfsense firewall, but these file are a good starting point.
+* These files are provided as-is, and you should verify their accuracy and suitability for your specific use case. In my experience, additional IPs are still needed to make OFFICE 365 work through Pfsense firewall, but these files are a good starting point.
 
 **Contributing**
 ------------
